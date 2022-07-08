@@ -1,0 +1,21 @@
+.text
+{   position: relative ;
+    left: 20px;
+    top: 350px;
+    text-align: center;
+    font-size: 50px;
+    color: black;
+
+}
+form{
+    
+  font-size: 30px;
+  position: relative ;
+  left: 400px;
+  top: 300px;
+  width: 60%;
+  height: 50%;
+  text-align: center;
+ 
+ 
+}
