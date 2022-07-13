@@ -1,0 +1,49 @@
+body{
+		background-color: black;
+		background-image: url(https://unsplash.com/photos/QMDap1TAu0g-mackinnon-TUPrem65sUE-unsplash.jpg);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	  margin: 0;
+	  padding: 0;
+
+	 }
+.textt
+{  position: absolute;
+	top: 20%;
+	left: 40%;
+	text-align: center;
+	background-color:white;
+	height: 500px;
+	width: 500px;
+
+}
+input
+{   background-color: wheat;
+	font-size: 25px;
+	border-color: black;
+	border-width: 100%;
+	box-sizing: border-box;
+	display: inline-block;
+	width: 100%;
+}
+label
+{
+	text-align: left;
+	font-size: 25px;
+}
+button
+{   
+	background-color: rgba(5, 255, 38, 0.644);
+	margin-top: 20px;
+    font-size: 10px;
+	height: 32px;
+	width: 100%;
+	color: rgba(0, 0, 0, 0.911);
+}
+button:hover
+{
+	opacity: 0.78;
+}
+h2{
+	font-size: 25px;
+}
