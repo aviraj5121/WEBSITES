@@ -1,0 +1,48 @@
+body
+{
+    background-image: url('moon2.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.container
+{
+    background-color: rgb(0,0,0,0.4);
+    height: 400px;
+    width: 500px;
+    position: relative;
+    left: 40%;
+  
+}
+.left
+{
+    height: 400px;
+    background-color: dimgray;
+    width: 50%;
+}
+.right
+{   
+    background-color: rgb(0,0,0,0.4);
+    width: 90%;
+}
+.from 
+{
+    text-decoration-color: aliceblue;
+    float: right;
+    position: relative;
+    bottom: 300px;
+    margin-left: 0px;
+}
+input
+{
+    text-decoration-color: aliceblue;
+    width: 100%;
+}
+label
+{
+    text-decoration-color: aliceblue;
+}
+button
+{
+    text-align: center;
+    align-items: center;
+}
